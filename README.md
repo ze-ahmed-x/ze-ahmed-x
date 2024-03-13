@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ze-ahmed-x
 - 👀 I’m interested in enterprise web application development and mobile game development.
-- 🌱 I’m currently learning advance web develpment and analytics
 - 💞️ I’m looking to collaborate on web application develpment in MERN Stack, Nextjs, Oracle Apex, oracle analytics and game development in Unity3D.
+- 🌱 I’m currently learning advance analytics and dataware housing
 - 📫 ze.ahmed.x@protonmail.com
 
 <!---
